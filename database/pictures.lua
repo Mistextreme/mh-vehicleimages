@@ -2843,5 +2843,17 @@ return {
     ["ztype"] = {
         label = "ztype",
         image = "https://raw.githubusercontent.com/Mistextreme/mh-vehicleimages/main/images/ztype.png"
+    },
+    ["gexige"] = {
+        label = "gexige",
+        image = "https://raw.githubusercontent.com/Mistextreme/mh-vehicleimages/main/veh_names/gexige.png"
+    },
+    ["strikertour"] = {
+        label = "strikertour",
+        image = "https://raw.githubusercontent.com/Mistextreme/mh-vehicleimages/main/veh_names/strikertour.png"
+    },
+    ["wolfr"] = {
+        label = "wolfr",
+        image = "https://raw.githubusercontent.com/Mistextreme/mh-vehicleimages/main/veh_names/wolfr.png"
     }
 }
